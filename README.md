@@ -12,7 +12,15 @@
   <body><h1>Hello! Welcome to the official FRINGADUNGALOO Website!</h1></body>
   </center>
 <body><h2>This will answer all your questions about the books which have been completed.</h2></body>
-<body><b>"When does Fringadungaloo die? One of the main characters must die?"</b></body>
+<body><b>"How many books are in the series?"</b></body>
 <br>
-<body><b>He won't.</b></body>
+<body><b>9 books including: BARNACLES, SUBCHRONICLE, BANIVERSE, STRANDED, OMLIVERSE, BARNACLIZATION, REVELETTE, Mega Mashup and Concepts</b></body>
+<br>
+<body><b>"What is the longest and shortest book in the series?"</b></body>
+<br>
+<body><b>The shortest book in the series is STRANDED.</b></body>
+<br>
+<body><b>uuhhhh..... i have no more questions to give you so uhhh idk come back tomorrow or something</b></body>
+<br>
+<marquee bgcolor = yellow>UNDER CONSTRUCTION</marquee>
 </html>

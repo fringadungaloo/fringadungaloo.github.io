@@ -22,5 +22,6 @@
 <br>
 <body><b>uuhhhh..... i have no more questions to give you so uhhh idk come back tomorrow or something</b></body>
 <br>
-<marquee bgcolor = yellow>UNDER CONSTRUCTION</marquee>
+<body><h1>FACTS</h1></body>
+<body><b>Omallete man is based off of HorrorSkunx's Omelette man.</b></body>
 </html>
